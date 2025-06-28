@@ -1,4 +1,4 @@
-#Time Series and Sequential Data Analytics
+**Time Series and Sequential Data Analytics**
 
 This repository presents a collection of time series analysis and forecasting techniques using well-known public datasets. The workflow includes data preprocessing, feature engineering, exploratory analysis, modeling, and evaluation.
 
